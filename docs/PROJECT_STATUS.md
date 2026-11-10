@@ -9,6 +9,8 @@ This document separates established project direction from proposed engineering 
 - Initial content recommendation: use original GTA V gameplay.
 - GTA VI: use only lawfully accessed footage after release; leaked footage is excluded.
 - Proposed short-form target: around 40–50 seconds, vertical 9:16, 1080×1920, 30/60 FPS, energetic English commentary, quick cuts/zooms/sound effects.
+- GitHub repository: https://github.com/thyagaraaj-oss/ClutchVerse-AI-Gaming-Clip-Creator-
+- Technical documentation has been added to the repository's `main` branch.
 
 ## Proposed, not verified as implemented
 - Python and Streamlit application.
@@ -18,9 +20,9 @@ This document separates established project direction from proposed engineering 
 - yt-dlp for optional URL ingestion, subject to authorization and platform terms.
 
 ## Not confirmed
-- A GitHub repository has not been confirmed as created.
-- GitHub connection/authorization and the choice between a new public `ClutchVerse` repository and an existing repository were previously pending.
-- No working application source code or completed integration tests were confirmed in the available project history.
+- A runnable end-to-end application.
+- Completed integrations with Gemini, Faster-Whisper, FFmpeg, or yt-dlp.
+- Passing unit, integration, and Windows acceptance tests.
 
 ## Important
-This ZIP contains technical planning documentation and starter configuration, not a finished executable product. Update this status as code is implemented and tested.
+The repository currently contains technical planning documentation and starter configuration, not a verified finished executable product. Update this status as code is implemented and tested.
