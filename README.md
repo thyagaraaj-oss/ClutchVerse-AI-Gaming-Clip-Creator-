@@ -114,6 +114,6 @@ streamlit run app.py
 - Project name and GTA V / GTA VI focus: established.
 - Purpose and proposed output profile: drafted.
 - Proposed stack: identified, implementation not verified.
-- GitHub repository creation: not confirmed; GitHub authorization and repository selection were previously pending.
+- GitHub repository: created at https://github.com/thyagaraaj-oss/ClutchVerse-AI-Gaming-Clip-Creator-; technical documentation has been added to the `main` branch.
 
 See `docs/PROJECT_STATUS.md` before treating this design as implemented.
