@@ -1,0 +1,24 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local media and generated outputs
+data/input/*
+data/temp/*
+data/output/*
+!data/input/.gitkeep
+!data/temp/.gitkeep
+!data/output/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
