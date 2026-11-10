@@ -1,0 +1,7 @@
+# Proposed baseline only; pin and test versions before release.
+streamlit
+faster-whisper
+google-generativeai
+python-dotenv
+pydantic
+pytest
